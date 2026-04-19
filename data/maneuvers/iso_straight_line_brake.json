@@ -1,0 +1,8 @@
+{
+  "type": "straight_line_brake",
+  "duration": 8.0,
+  "brake_start_time": 1.0,
+  "brake_decel_m_s2": 5.0,
+  "reference_mass": 1500.0,
+  "initial_forward_speed": 20.0
+}

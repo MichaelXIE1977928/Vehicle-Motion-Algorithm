@@ -1,0 +1,8 @@
+{
+  "type": "iso7401_impulse",
+  "impulse_time": 1.0,
+  "impulse_width": 0.15,
+  "steer_amplitude": 0.06,
+  "duration": 5.0,
+  "initial_forward_speed": 20.0
+}

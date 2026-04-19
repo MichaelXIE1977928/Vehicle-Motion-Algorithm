@@ -1,0 +1,10 @@
+{
+  "type": "throttle_on_in_turn",
+  "radius": 80,
+  "wheelbase": 2.8,
+  "throttle_start_time": 3.0,
+  "longitudinal_accel_m_s2": 1.5,
+  "reference_mass": 1500,
+  "duration": 10.0,
+  "initial_forward_speed": 16.0
+}

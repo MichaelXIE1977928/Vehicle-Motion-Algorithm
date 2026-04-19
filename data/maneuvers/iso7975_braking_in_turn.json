@@ -1,0 +1,10 @@
+{
+  "type": "iso7975_braking_in_turn",
+  "radius": 80,
+  "wheelbase": 2.8,
+  "brake_start_time": 3.0,
+  "brake_decel_m_s2": 3.0,
+  "reference_mass": 1500,
+  "duration": 8.0,
+  "initial_forward_speed": 18.0
+}

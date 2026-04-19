@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.tox/
+venv/
+.venv/
+env/
+.env/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Nested clone / mistaken GitHub Desktop folder inside project (not part of VMA)
+Vehicle-Motion-Algorithm/

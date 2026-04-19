@@ -1,0 +1,10 @@
+{
+  "type": "ackermann_slow_slalom_linrange",
+  "radius": 100,
+  "wheelbase": 2.8,
+  "sine_amplitude_rad": 0.004,
+  "sine_freq_hz": 0.12,
+  "phase_rad": 0.0,
+  "duration": 25.0,
+  "initial_forward_speed": 15.0
+}

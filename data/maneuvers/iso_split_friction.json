@@ -1,0 +1,7 @@
+{
+  "type": "split_mu",
+  "split_time": 2.0,
+  "mu_ratio": 0.5,
+  "duration": 8.0,
+  "initial_forward_speed": 20.0
+}

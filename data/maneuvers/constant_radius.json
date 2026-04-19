@@ -1,0 +1,6 @@
+{
+  "type": "constant_radius",
+  "radius": 100,
+  "speed": 20,
+  "duration": 10.0
+}

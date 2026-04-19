@@ -1,0 +1,6 @@
+{
+  "type": "iso17288_uturn",
+  "duration": 12.0,
+  "max_steer": 0.45,
+  "initial_forward_speed": 5.0
+}

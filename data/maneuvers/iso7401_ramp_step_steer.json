@@ -1,0 +1,8 @@
+{
+  "type": "ramp_step_steer",
+  "duration": 6.0,
+  "ramp_time": 0.5,
+  "hold_time": 1.0,
+  "steer_amplitude": 0.06,
+  "initial_forward_speed": 20.0
+}

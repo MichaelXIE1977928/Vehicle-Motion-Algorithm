@@ -1,0 +1,11 @@
+{
+  "type": "fish_hook",
+  "duration": 14.0,
+  "steer_positive": 0.09,
+  "steer_negative": -0.12,
+  "frac_ramp_pos_end": 0.07,
+  "frac_hold_pos_end": 0.3,
+  "frac_ramp_neg_end": 0.36,
+  "frac_hold_neg_end": 0.85,
+  "initial_forward_speed": 20.0
+}

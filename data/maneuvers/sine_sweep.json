@@ -1,0 +1,7 @@
+{
+  "type": "sine_sweep",
+  "freq_start": 0.1,
+  "freq_end": 5.0,
+  "amplitude": 0.05,
+  "duration": 10.0
+}

@@ -1,0 +1,6 @@
+{
+  "type": "double_lane_change",
+  "duration": 10.0,
+  "steer_amplitude": 0.05,
+  "initial_forward_speed": 20.0
+}

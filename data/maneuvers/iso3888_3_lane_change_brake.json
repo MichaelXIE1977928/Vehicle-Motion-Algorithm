@@ -1,0 +1,9 @@
+{
+  "type": "lane_change_with_brake",
+  "duration": 10.0,
+  "steer_amplitude": 0.05,
+  "brake_start_time": 4.5,
+  "brake_decel_m_s2": 4.0,
+  "reference_mass": 1500.0,
+  "initial_forward_speed": 20.0
+}

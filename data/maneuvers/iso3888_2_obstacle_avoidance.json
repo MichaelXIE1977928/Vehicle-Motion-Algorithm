@@ -1,0 +1,6 @@
+{
+  "type": "iso3888_2_obstacle",
+  "duration": 9.0,
+  "steer_amplitude": 0.06,
+  "initial_forward_speed": 18.0
+}

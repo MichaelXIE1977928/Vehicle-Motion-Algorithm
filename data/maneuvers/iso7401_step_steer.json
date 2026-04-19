@@ -1,0 +1,7 @@
+{
+  "type": "step_steer",
+  "step_time": 1.0,
+  "steer_amplitude": 0.05,
+  "duration": 5.0,
+  "initial_forward_speed": 20.0
+}
